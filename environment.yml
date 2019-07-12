@@ -1,0 +1,8 @@
+name: yann-book
+dependencies:
+  - python=3.7
+  - pip
+  - matplotlib
+  - jupytext
+  - pip:
+    - scikit-learn
