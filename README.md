@@ -4,5 +4,5 @@ Figures for Yann's book
 This project uses `jupytext`, which maintains a `PY` correspondent file for each notebook.
 Install it with
 ```
-conda install jupytext
+pip install jupytext
 ```
